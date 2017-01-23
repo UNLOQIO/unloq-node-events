@@ -23,7 +23,7 @@ clientObj
   });
   
 setTimeout(() => {
-  // Or ubsibscribe from a namespace
+  // Or unsubscribe from a namespace
   clientObj.unsubscribe(clientObj.NAMESPACE.IAM);
 }, 5000);
 
