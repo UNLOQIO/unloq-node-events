@@ -1,0 +1,19 @@
+{
+  "name": "unloq-events",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io-client": "^1.7.2"
+  },
+  "description": "UNLOQ.io Real-time event subscribtions",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UNLOQIO/unloq-node-events"
+  },
+  "homepage": "https://unloq.io",
+  "bugs": {
+    "url": "https://github.com/UNLOQIO/unloq-node-events/issues"
+  }
+}
