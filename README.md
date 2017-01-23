@@ -6,7 +6,7 @@
 #### Example available in folder example/
 
 ##### Usage:
-~~~~
+~~~~javascript
 const UnloqEvents = require('unloq-events');
 
 const client = new UnloqEvents({
